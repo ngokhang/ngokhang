@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ngo Phu Khang
-- 👀 I’m interested in Java
+- 👀 I’m interested in Laravel
 - 🌱 I’m currently learning in Phenikaa University 
 - 📫 How to reach me : ngokhang2002vn@gmail.com
 
