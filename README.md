@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngo Phu Khang
 - 👀 I’m interested in Laravel
 - 🌱 I’m currently learning in Phenikaa University 
-- 📫 How to reach me : ngokhang2002vn@gmail.com
+- 📫 My email : ngokhang2002vn@gmail.com
 
 <!---
 ngokhang/ngokhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
