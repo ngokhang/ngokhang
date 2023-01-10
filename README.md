@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ngo Phu Khang
-<!-- - 👀 I’m interested in Laravel -->
+- 👀 I’m interested in NodeJS
 - 🌱 I’m currently learning in Phenikaa University 
 - 📫 My email : ngokhang2002vn@gmail.com
 
