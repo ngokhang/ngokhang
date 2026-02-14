@@ -69,15 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 ## 🔥 Current Focus
 
 - Building scalable backend systems with NestJS
@@ -90,7 +81,8 @@
 ## 📫 Contact Me
 
 - Email: **ngokhang2002vn@gmail.com**
-- GitHub: https://github.com/your-github-username
+- GitHub: **https://github.com/ngokhang**
+- Linked: **https://www.linkedin.com/in/npkhangdev/**
 
 ---
 
