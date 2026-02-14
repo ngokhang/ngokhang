@@ -5,87 +5,79 @@
   <a href="mailto:ngokhang2002vn@gmail.com">
     <img src="https://img.shields.io/badge/Email-ngokhang2002vn%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Backend-NestJS-success?style=for-the-badge&logo=nestjs">
-  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js">
+  <a href="https://github.com/ngokhang">
+    <img src="https://img.shields.io/badge/GitHub-ngokhang-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/npkhangdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-npkhangdev-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Graduate from **Phenikaa University**
-- 💻 Fullstack Developer focused on scalable web applications
-- 🚀 Strong experience with **NodeJS ecosystem**
-- 🧠 Interested in system design, backend architecture, and performance optimization
-- 📫 Contact: **ngokhang2002vn@gmail.com**
+- 💻 Fullstack Developer (NodeJS ecosystem)
+- 🚀 Building scalable web applications
+- 🧠 Interested in backend architecture & performance
+- 📫 ngokhang2002vn@gmail.com
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Backend & Database
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php" />
 
-- React.js  
-- Vue.js  
-- Next.js  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+**Backend:** NestJS, ExpressJS, Laravel  
+**Database:** MySQL, PostgreSQL, MongoDB  
 
 ---
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel" />
-</p>
+## 🛠️ DevOps & Tools
 
-- NestJS  
-- ExpressJS  
-- Laravel (PHP)  
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode" />
 
----
+Docker • Git • Linux • Nginx  
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-- MySQL  
-- PostgreSQL  
-- MongoDB  
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,html,css" />
+
+React.js • Vue.js • Next.js  
 
 ---
 
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode" />
-</p>
+## 📊 GitHub Stats
 
-- Docker  
-- Git  
-- Linux  
-- Nginx  
+<img src="https://github-readme-stats.vercel.app/api?username=ngokhang&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngokhang&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🔥 Current Focus
 
-- Building scalable backend systems with NestJS
-- Modern frontend with Next.js
-- Dockerized production environments
-- Clean architecture & best practices
-
----
-
-## 📫 Contact Me
-
-- Email: **ngokhang2002vn@gmail.com**
-- GitHub: **https://github.com/ngokhang**
-- Linked: **https://www.linkedin.com/in/npkhangdev/**
+- Scalable backend systems with NestJS  
+- Modern frontend with Next.js  
+- Docker production deployment  
+- Clean architecture & best practices  
 
 ---
 
 ## ✨ Quote
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> First, solve the problem. Then, write the code.
+
+</td>
+</tr>
+</table>
